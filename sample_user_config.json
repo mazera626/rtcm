@@ -4,7 +4,7 @@
         "vid": "0x46f4",
         "sn": "1780PDN268801",
         "mac1": "0011323d47f7",
-        "DiskIdxMap': "01",
+        "DiskIdxMap": "01",
         "SataPortMap": "4",
         "SasIdxMap": "0"
     },
